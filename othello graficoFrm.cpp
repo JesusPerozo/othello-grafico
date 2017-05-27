@@ -519,7 +519,7 @@ void othello_graficoFrm::WxButton1Click(wxCommandEvent& event)
             }
             if(tempX==0){
                 bandera=1;
-                contador=0;
+
             }
             
             //tempY=tempY-1;
@@ -545,7 +545,6 @@ void othello_graficoFrm::WxButton1Click(wxCommandEvent& event)
             }
             if(tempX==7){
                 bandera=1;
-                contador=0;
             }
             
             
@@ -575,7 +574,6 @@ void othello_graficoFrm::WxButton1Click(wxCommandEvent& event)
             }
             if(tempY==0){
                 bandera=1;
-                contador=0;
             }
             
             
@@ -602,7 +600,6 @@ void othello_graficoFrm::WxButton1Click(wxCommandEvent& event)
             }
             if(tempY==7){
                 bandera=1;
-                contador=0;
             }
             
             
@@ -645,7 +642,6 @@ void othello_graficoFrm::WxButton1Click(wxCommandEvent& event)
             }
             if(tempX==0){
                 bandera=1;
-                contador=0;
             }
             
             //tempY=tempY-1;
@@ -671,7 +667,6 @@ void othello_graficoFrm::WxButton1Click(wxCommandEvent& event)
             }
             if(tempX==7){
                 bandera=1;
-                contador=0;
             }
             
             
@@ -701,7 +696,6 @@ void othello_graficoFrm::WxButton1Click(wxCommandEvent& event)
             }
             if(tempY==0){
                 bandera=1;
-                contador=0;
             }
             
             
@@ -728,7 +722,6 @@ void othello_graficoFrm::WxButton1Click(wxCommandEvent& event)
             }
             if(tempY==7){
                 bandera=1;
-                contador=0;
             }
             
             
